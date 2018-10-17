@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67844938-7367-43ba-86cb-b8dc33e4db9f" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DragEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/DragEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <marker date="1539660077403" expanded="false" signature="6:110" ph="..." />
+                <marker date="1539660077403" expanded="true" signature="197:719" ph="{...}" />
+                <marker date="1539660077403" expanded="true" signature="287:347" ph="{...}" />
+                <marker date="1539660077403" expanded="true" signature="401:479" ph="{...}" />
+                <marker date="1539660077403" expanded="true" signature="529:604" ph="{...}" />
+                <marker date="1539660077403" expanded="true" signature="656:717" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoveWithMouse.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/MoveWithMouse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <marker date="1539676693991" expanded="false" signature="6:100" ph="..." />
+                <marker date="1539676693991" expanded="true" signature="165:733" ph="{...}" />
+                <marker date="1539676693991" expanded="true" signature="240:349" ph="{...}" />
+                <marker date="1539676693991" expanded="true" signature="373:640" ph="{...}" />
+                <marker date="1539676693991" expanded="true" signature="460:637" ph="{...}" />
+                <marker date="1539676693991" expanded="true" signature="504:585" ph="{...}" />
+                <marker date="1539676693991" expanded="true" signature="594:633" ph="{...}" />
+                <marker date="1539676693991" expanded="true" signature="709:731" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PickUpDrop.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/PickUpDrop.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+              <folding>
+                <marker date="1539673817003" expanded="false" signature="6:110" ph="..." />
+                <marker date="1539673817003" expanded="true" signature="164:639" ph="{...}" />
+                <marker date="1539673817003" expanded="true" signature="251:300" ph="{...}" />
+                <marker date="1539673817003" expanded="true" signature="342:519" ph="{...}" />
+                <marker date="1539673817003" expanded="true" signature="568:637" ph="{...}" />
+                <marker date="1539673817003" expanded="true" signature="605:634" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BagView.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/View/BagView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+              <folding>
+                <marker date="1539698937371" expanded="false" signature="6:232" ph="..." />
+                <marker date="1539698937371" expanded="true" signature="234:291" ph="/* MVC_View ... */" />
+                <marker date="1539698937371" expanded="true" signature="329:2623" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="543:694" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="717:1130" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="752:1127" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="789:1123" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="1198:1349" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="1408:1745" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="1618:1655" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="1783:1921" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="1824:1918" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="1980:2621" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="2066:2191" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="2107:2158" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="2230:2615" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="2393:2502" ph="{...}" />
+                <marker date="1539698937371" expanded="true" signature="2510:2607" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Model/ItemModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+              <folding>
+                <marker date="1539609572225" expanded="false" signature="6:168" ph="..." />
+                <marker date="1539609572225" expanded="true" signature="209:873" ph="{...}" />
+                <marker date="1539609572225" expanded="true" signature="230:366" ph="{...}" />
+                <marker date="1539609572225" expanded="true" signature="315:363" ph="{...}" />
+                <marker date="1539609572225" expanded="true" signature="473:869" ph="{...}" />
+                <marker date="1539609572225" expanded="true" signature="574:668" ph="{...}" />
+                <marker date="1539609572225" expanded="true" signature="619:664" ph="{...}" />
+                <marker date="1539609572225" expanded="true" signature="702:866" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/MoveWithMouse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/PickUpDrop.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/DragEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Model/ItemModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/View/BagView.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/BagSystem MVC/Model/ItemModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/BagSystem MVC/View/BagView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/BagSystem MVC/Control/DragEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/BagSystem MVC/Control/PickUpDrop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/BS_MVC/Control/MoveWithMouse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/BS_MVC/View/BagView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="209" />
+    <option name="width" value="1440" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Create the bagSystem with MVC Frame" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Create the bagSystem with MVC Frame" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Create the bagSystem with MVC Frame" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Create the bagSystem with MVC Frame" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67844938-7367-43ba-86cb-b8dc33e4db9f" name="默认的" comment="" />
+      <created>1539591299443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539591299443</updated>
+      <workItem from="1539591301611" duration="46000" />
+      <workItem from="1539591553142" duration="4915000" />
+      <workItem from="1539604957658" duration="5624000" />
+      <workItem from="1539654303625" duration="8363000" />
+      <workItem from="1539672623823" duration="1272000" />
+      <workItem from="1539673970186" duration="3192000" />
+      <workItem from="1539692091833" duration="7056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30468000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="调试" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0734375" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="8" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/DragEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <marker date="1539660077403" expanded="false" signature="6:110" ph="..." />
+            <marker date="1539660077403" expanded="true" signature="197:719" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="287:347" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="401:479" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="529:604" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="656:717" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/MoveWithMouse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="5" lean-forward="true" selection-end-line="40" />
+          <folding>
+            <marker date="1539676693991" expanded="false" signature="6:100" ph="..." />
+            <marker date="1539676693991" expanded="true" signature="165:733" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="240:349" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="373:640" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="460:637" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="504:585" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="594:633" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="709:731" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/View/BagView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="26" column="5" lean-forward="true" selection-end-line="92" />
+          <folding>
+            <marker date="1539698937371" expanded="false" signature="6:232" ph="..." />
+            <marker date="1539698937371" expanded="true" signature="234:291" ph="/* MVC_View ... */" />
+            <marker date="1539698937371" expanded="true" signature="329:2623" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="543:694" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="717:1130" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="752:1127" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="789:1123" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1198:1349" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1408:1745" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1618:1655" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1783:1921" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1824:1918" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1980:2621" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2066:2191" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2107:2158" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2230:2615" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2393:2502" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2510:2607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Model/ItemModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="9" lean-forward="true" selection-end-line="47" />
+          <folding>
+            <marker date="1539609572225" expanded="false" signature="6:168" ph="..." />
+            <marker date="1539609572225" expanded="true" signature="209:873" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="230:366" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="315:363" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="473:869" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="574:668" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="619:664" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="702:866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/PickUpDrop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="32" lean-forward="true" selection-end-line="34" />
+          <folding>
+            <marker date="1539673817003" expanded="false" signature="6:110" ph="..." />
+            <marker date="1539673817003" expanded="true" signature="164:639" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="251:300" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="342:519" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="568:637" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="605:634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/View/BagView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/Control/DragEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/Control/PickUpDrop.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/Model/ItemModel.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/View/BagView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/Model/ItemModel.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/View/BagView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/View/BagView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/Model/ItemModel.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/View/BagView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/Control/DragEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BagSystem MVC/Control/PickUpDrop.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/DragEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <marker date="1539660077403" expanded="false" signature="6:110" ph="..." />
+            <marker date="1539660077403" expanded="true" signature="197:719" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="287:347" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="401:479" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="529:604" ph="{...}" />
+            <marker date="1539660077403" expanded="true" signature="656:717" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/MoveWithMouse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <marker date="1539676693991" expanded="false" signature="6:100" ph="..." />
+            <marker date="1539676693991" expanded="true" signature="165:733" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="240:349" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="373:640" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="460:637" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="504:585" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="594:633" ph="{...}" />
+            <marker date="1539676693991" expanded="true" signature="709:731" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Model/ItemModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <marker date="1539609572225" expanded="false" signature="6:168" ph="..." />
+            <marker date="1539609572225" expanded="true" signature="209:873" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="230:366" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="315:363" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="473:869" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="574:668" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="619:664" ph="{...}" />
+            <marker date="1539609572225" expanded="true" signature="702:866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/Control/PickUpDrop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <marker date="1539673817003" expanded="false" signature="6:110" ph="..." />
+            <marker date="1539673817003" expanded="true" signature="164:639" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="251:300" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="342:519" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="568:637" ph="{...}" />
+            <marker date="1539673817003" expanded="true" signature="605:634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BS_MVC/View/BagView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+          <folding>
+            <marker date="1539698937371" expanded="false" signature="6:232" ph="..." />
+            <marker date="1539698937371" expanded="true" signature="234:291" ph="/* MVC_View ... */" />
+            <marker date="1539698937371" expanded="true" signature="329:2623" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="543:694" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="717:1130" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="752:1127" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="789:1123" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1198:1349" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1408:1745" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1618:1655" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1783:1921" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1824:1918" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="1980:2621" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2066:2191" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2107:2158" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2230:2615" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2393:2502" ph="{...}" />
+            <marker date="1539698937371" expanded="true" signature="2510:2607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
